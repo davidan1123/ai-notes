@@ -1,2 +1,3 @@
 - repo: a project tracked by git
 - branch: a movable pointer to a commit
+- branch: a movable pointer to a commit
